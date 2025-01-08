@@ -1,5 +1,5 @@
 import java.util.*;
-public class calculateSimpleInterest{
+public class CalculateSimpleInterest{
     public static void main(String args[])
     {   
 	float Principal, Rate, Time;
